@@ -2,9 +2,7 @@
 
 ## Descripción del Proyecto
 Este proyecto forma parte de los Challenge de ALURA LATAM
-Este proyecto es una API RESTful desarrollada con Spring Boot que permite la gestión de tópicos. La API incluye operaciones CRUD (Crear, Leer, Actualizar, Eliminar) y está protegida con autenticación JWT (JSON Web Token). Los usuarios deben autenticarse para interactuar con la API.
-MADE BY David Almazan Moya
-
+Este proyecto es una API desarrollada con Spring Boot. La API incluye operaciones CRUD (Crear, Leer, Actualizar, Eliminar).
 ## Tecnologías Utilizadas
 
 - Java
@@ -20,7 +18,7 @@ MADE BY David Almazan Moya
 
 ## Dependencias
 
-Las siguientes dependencias están incluidas en el proyecto:
+Dependencias incluidas en el proyecto:
 
 - `Lombok`
 - `Spring Web`
@@ -42,9 +40,6 @@ El proyecto tiene la siguiente estructura de paquetes:
 - `repository`: Contiene las interfaces de repositorio JPA.
 - `service`: Contiene las clases de servicio.
 
-## Diagrama de la Base de Datos
-
-![Diagrama de la Base de Datos](path/to/your/database-diagram.png)
 
 ## Funcionalidades
 
