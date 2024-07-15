@@ -1,7 +1,7 @@
-# Spring Boot API con Seguridad JWT y CRUD para Tópicos
+# Spring Boot API con Seguridad JWT y CRUD
 
 ## Descripción del Proyecto
-Este proyecto forma parte de los Challenge de ALURA LATAM
+Este proyecto forma parte de los Challenge del programa ONE de ALURA LATAM EN Colaboración con Oracle
 Este proyecto es una API desarrollada con Spring Boot. La API incluye operaciones CRUD (Crear, Leer, Actualizar, Eliminar).
 ## Tecnologías Utilizadas
 
